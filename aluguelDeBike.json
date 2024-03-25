@@ -1,4 +1,3 @@
-data =  {
   "Inputs": {
     "data": [
       {
@@ -18,4 +17,3 @@ data =  {
     ]
   },
   "GlobalParameters": 1
-}
