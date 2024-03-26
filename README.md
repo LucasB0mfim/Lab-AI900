@@ -76,7 +76,7 @@ Depois que seu ML estiver completo, vá para para a seção de Tarefas localizad
 
 #
 
-#### Modelos
+### Modelos
 
 - Vá para **modelos no menu esquerdo**;
 - Abra o seu modelo;
@@ -84,7 +84,7 @@ Depois que seu ML estiver completo, vá para para a seção de Tarefas localizad
 
 #
 
-#### Pontos de extremidade
+### Pontos de extremidade
 - Selecione o seu modelo e espere ele ser carregado!
 -  Clique em testar e substitua o .json com as informações desejadas! 
 
