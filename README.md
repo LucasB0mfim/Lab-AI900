@@ -82,12 +82,13 @@ Depois que seu ML estiver completo, vá para para a seção de Tarefas localizad
 - Abra o seu modelo;
 - Clique em **pontos de extremidade**;
 
+<img src="images/21.png" />
+
 #
 
 ### Pontos de extremidade
 - Selecione o seu modelo e espere ele ser carregado!
 -  Clique em testar e substitua o .json com as informações desejadas! 
 
-<img src="images/21.png" />
 <img src="images/22.png" />
 <img src="images/23.png" />
