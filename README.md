@@ -18,13 +18,13 @@
    - `Review + Create` 
    - `Create` 
   
-    >É importante que você **espere o termino do Deploy** antes de sair dessa tela. Assim que terminar, clique em:
+> É importante que você **espere o termino do Deploy** antes de sair dessa tela. Assim que terminar, clique em
 
-    - `Go to resouce`
+ - `Go to resouce`
 
-    > e depois:
+> e depois em
 
-    - `Launch Studio`
+ - `Launch Studio`
 
 ### ML automatizado
 
