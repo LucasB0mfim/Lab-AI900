@@ -31,7 +31,7 @@
 No menu esquerdo clique na opção **ML automatizado**
 
 - `+ Novo trabalho de ML automatizado`
-- Preencha os campos de acordo com a sua documentação
+- Preencha os campos **de acordo com a sua documentação**
 - Depois de configurar todo o seu ML espere ele ser executado 100% (tempo estimado: **15 minutos**).
 
 > Exemplo de como configurar o ML automatizado:
@@ -62,7 +62,7 @@ Depois que seu ML estiver completo, vá para para a seção de Tarefas localizad
 - Escolha a com melhor resultado;
 - Abra a opção **implantar** e escolha **Serviço web**
 
-> Preencha os campos desse forma:
+> Preencha os campos dessa forma
 
 - Nome: (pessoal)
 - Descrição: (pessoal)
@@ -78,17 +78,18 @@ Depois que seu ML estiver completo, vá para para a seção de Tarefas localizad
 
 ### Modelos
 
-- Vá para **modelos no menu esquerdo**;
-- Abra o seu modelo;
-- Clique em **pontos de extremidade**;
+- Vá para **modelos no menu esquerdo**
+- Abra o seu modelo
 
 <img src="images/21.png" />
 
 #
 
 ### Pontos de extremidade
-- Selecione o seu modelo e espere ele ser carregado!
--  Clique em testar e substitua o .json com as informações desejadas! 
+
+- Clique em **pontos de extremidade**
+- Selecione o seu modelo e espere ele ser carregado
+- Clique em testar e substitua o .json com as informações desejadas!
 
 <img src="images/22.png" />
 <img src="images/23.png" />
