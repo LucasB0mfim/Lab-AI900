@@ -93,3 +93,7 @@ Depois que seu ML estiver completo, vá para para a seção de Tarefas localizad
 
 <img src="images/22.png" />
 <img src="images/23.png" />
+
+#
+
+### **Vale lembrar de que isso é um laboratório de estudos, caso também pretenda realizar esse lab, não se esqueça de excluir TUDO assim que terminar para não ser cobrado posteriormente!!**
